@@ -1,147 +1,105 @@
-# # Hey, I'm Noor Ul Eiman 👋
+# 🕶️ NOOR UL EIMAN
+### `Cybersecurity Enthusiast | Aspiring Security Analyst`
 
-### Aspiring Developer • Student • Curious Mind
-
-I'm an 18-year-old student from Peshawar, Pakistan, currently building my foundation in programming and technology.
-
-I'm fascinated by the intersection of *technology, global affairs, diplomacy, and international relations* — and I'm exploring how technology can be used to understand problems, build solutions, and create meaningful impact.
-
-> **Learning → Building → Breaking things → Fixing them → Repeating.**
-
----
-
-## 🧠 About Me
-
-* 🎓 Currently pursuing *Pre-Engineering*
-* 💻 Exploring *programming & software development*
-* 🌐 Interested in *technology, diplomacy & international relations*
-* 🧩 Enjoy *problem-solving and analytical thinking*
-* 📚 Currently preparing for the next stage of my academic journey
-* 🚀 Building my skills one project at a time
-
-I'm still early in my developer journey, so this profile is a record of my **learning, experiments, projects, and growth**.
-
----
-
-## 🛠️ What I'm Exploring
-
-```text
-Programming
-    ↓
-Problem Solving
-    ↓
-Building Projects
-    ↓
-Learning New Technologies
-    ↓
-Turning Ideas Into Solutions
+```bash
+> Initializing secure connection...
+> Loading security modules...
+> Access granted. Welcome to my profile.
 ```
 
-I'm currently focused on developing strong fundamentals rather than rushing through technologies.
+I'm **Noor Ul Eiman**, a self-driven learner exploring the world of cybersecurity, digital defense, and technology.
+
+I'm interested in understanding how systems work, how vulnerabilities emerge, and how security can be strengthened through continuous learning, practical experimentation, and analytical thinking.
+
+My goal is to build a strong foundation in cybersecurity and develop practical skills through hands-on projects.
 
 ---
 
-## 🌍 Beyond Code
+### 🖥️ `ABOUT_ME`
 
-Technology is only one part of what interests me.
+```python
+class CyberLearner:
+    def __init__(self):
+        self.name = "Noor Ul Eiman"
+        self.role = "Cybersecurity Enthusiast"
+        self.interests = [
+            "Cybersecurity",
+            "Network Security",
+            "Ethical Hacking",
+            "Digital Forensics",
+            "Linux & System Security"
+        ]
+        self.mindset = "Learn. Analyze. Secure. Repeat."
 
-I'm deeply curious about:
-
-* 🌐 International Relations
-* 🤝 Diplomacy
-* 🏛️ Politics
-* 🌍 Global Affairs
-* 💡 Technology & Innovation
-
-One of the questions that interests me is:
-
-> **How can technology help solve problems that exist beyond borders?**
-
-I hope to explore the intersection between technology and global affairs throughout my academic and professional journey.
-
----
-
-## 🎓 Education
-
-### Hadaf College — Peshawar
-
-Pre-Engineering
-
-First Year: 440 / 600
-
-### Alma Mater — Peshawar
-
-Matriculation
-
-1,028 / 1,200 · 86% · A Grade
-
-Currently working toward the next stage of my education and exploring university opportunities.
+    def current_status(self):
+        return "Building skills, one project at a time."
+```
 
 ---
 
-## 🎯 Currently Working Toward
+### ⚡ `AREAS_OF_INTEREST`
 
-* [ ] Building a strong foundation in programming
-* [ ] Learning to write clean and understandable code
-* [ ] Creating my first meaningful projects
-* [ ] Understanding Git & GitHub properly
-* [ ] Building a consistent coding habit
-* [ ] Exploring different areas of technology
-* [ ] Finding the field of technology that I want to pursue deeply
-
----
-
-## 🚀 My Long-Term Vision
-
-I want to become someone who can do more than simply write code.
-
-I want to understand **problems, systems, people, and technology** — and eventually use that understanding to build things that matter.
-
-My interests may seem diverse, but that's exactly what makes them exciting to me.
-
-Technology × Global Affairs × Curiosity
-
-That's the direction I'm exploring.
+- 🔐 Cybersecurity Fundamentals
+- 🌐 Networking & Network Security
+- 🐧 Linux & Command-Line Tools
+- 🛡️ Ethical Hacking & Vulnerability Assessment
+- 🔎 Digital Forensics & Threat Analysis
+- 💻 Python & Security Automation
 
 ---
 
-## 📌 Featured Projects
+### 🧰 `TECH_STACK`
 
-> 🚧 Projects coming soon...
+**Currently exploring and building my toolkit:**
 
-This section will evolve as I build and publish projects.
+`Python` · `Linux` · `Git` · `GitHub` · `Networking` · `Bash`
 
----
-
-## 📈 My GitHub Journey
-
-This profile isn't here to pretend that I've already mastered everything.
-
-It's here to document the journey.
-
-Every repository represents something I learned.
-Every project represents something I tried.
-Every mistake represents something I can improve.
-
-I'm just getting started.
+*Tools and technologies will evolve as I progress.*
 
 ---
 
-## 🤝 Let's Connect
+### 🧪 `CURRENT_MISSION`
 
-I'm always interested in meeting people who are passionate about:
-
-Technology · Programming · Innovation · Global Affairs · Learning
-
-If you're building something interesting or learning something new, I'd love to explore it too.
+- [ ] Strengthen my networking fundamentals
+- [ ] Build confidence with Linux
+- [ ] Learn Python for security automation
+- [ ] Practice in legal cybersecurity labs and CTF challenges
+- [ ] Document my learning through hands-on projects
+- [ ] Develop a cybersecurity portfolio
 
 ---
 
-### 🌐 Peshawar, Pakistan
+### 📂 `REPOSITORIES`
 
-### 🎓 Student | Aspiring Developer
+This is where I'll document my progress, experiments, notes, and projects.
 
-### 💻 Technology × Global Affairs
+Expect to find:
 
-> *Stay curious. Keep building.*
+- 📓 Cybersecurity learning notes
+- 🧩 CTF write-ups and lab walkthroughs
+- 🛠️ Small Python security projects
+- 🔬 Networking and Linux experiments
+- 📚 Technical documentation and research
 
+---
+
+### 🧠 `MY_PHILOSOPHY`
+
+> Understand the system. Question the assumptions. Secure the weakest link.
+
+I believe cybersecurity is about more than tools — it's about curiosity, critical thinking, patience, and understanding how technology can be made safer.
+
+---
+
+### 🟢 `SYSTEM_STATUS`
+
+`Learning: ACTIVE`  
+`Curiosity: UNLIMITED`  
+`Projects: IN PROGRESS`  
+`Security Mindset: DEVELOPING`
+
+---
+
+**`[ END OF TRANSMISSION ]`** 🖤
+
+*Stay curious. Think critically. Build securely.*
